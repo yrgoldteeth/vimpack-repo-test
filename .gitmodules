@@ -1,0 +1,6 @@
+[submodule "scripts/pathogen.vim"]
+	path = scripts/pathogen.vim
+	url = http://github.com/vim-scripts/pathogen.vim.git
+[submodule "scripts/rails.vim"]
+	path = scripts/rails.vim
+	url = http://github.com/vim-scripts/rails.vim.git

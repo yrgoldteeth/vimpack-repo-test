@@ -1,0 +1,1 @@
+/tmp/aruba/test_vimpack/.vimpack/scripts/rails.vim
